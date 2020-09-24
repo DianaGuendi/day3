@@ -1,0 +1,67 @@
+.dropdown-toggle{
+    color: gray;
+}
+
+img{
+max-width: 100%;
+
+}
+
+ul{
+    justify-content: center;
+}
+
+.col-4{
+    padding: 10px;
+    background-color: white;
+}
+.col-6{
+    background-color: white;
+    margin-block-start: 10px;
+}
+
+header{
+    font-size: 20px;
+}
+
+.tab-pane{
+    background-color: lightgray;
+}
+.modal-header {
+    border-bottom: none;
+}
+.icons1 {
+    margin-left: 15px;
+    display: flex;
+}
+.fa-camera {
+    margin-right: 10px
+}
+
+.post-head{
+    display: flex; 
+    align-self: auto;    
+    margin-top: 5px;
+}
+h3{
+    flex: 3;
+    
+}
+#date{
+    margin-top: 10px;
+
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color:white;
+    background-color: gray;
+    enable-background: none;     
+}
+ .nav-link{
+     color: gray;
+     lighting-color: none;
+ }
+
+a:hover{
+    color: gray;
+}
